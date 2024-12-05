@@ -25,10 +25,10 @@
     ],
     "default_widget_container_height": 280,
     "default_country_code": "GB",
-    "show_labs_settings": false,
+    "show_labs_settings": true,
     "features": {},
     "default_federate": true,
-    "default_theme": "light",
+    "default_theme": "dark",
     "room_directory": {
         "servers": ["matrix.org"]
     },
